@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cross Math</string>
+    <string name="title_activity_contact_details">ContactDetails</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+    <string name="title_activity_advanced_level">AdvancedLevel</string>
+</resources>
