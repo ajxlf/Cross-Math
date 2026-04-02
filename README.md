@@ -8,7 +8,12 @@ Fill in the blank cells so every equation — across and down — is correct. Th
 
 ## 📱 Screenshots
 
-> _Add screenshots here once you've taken them from the emulator or device._
+![Home](screenshots/Landing_Page.png)
+![About](screenshots/About.png)
+![New Game](screenshots/New_Game.png)
+![New Game Filled Example](screenshots/New_Game_Filled.png)
+![Completed Puzzle](screenshots/Puzzle_Complete.png)
+![Game Over](screenshots/Game_Over.png)
 
 ---
 
