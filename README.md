@@ -8,12 +8,13 @@ Fill in the blank cells so every equation — across and down — is correct. Th
 
 ## 📱 Screenshots
 
-![Home](screenshots/Landing_Page.png)
-![About](screenshots/About.png)
-![New Game](screenshots/New_Game.png)
-![New Game Filled Example](screenshots/New_Game_Filled.png)
-![Completed Puzzle](screenshots/Puzzle_Complete.png)
-![Game Over](screenshots/Game_Over.png)
+| Home Screen | About | New Game |
+|---|---|---|
+| ![Home](screenshots/Landing_Page.png) | ![About](screenshots/About.png) | ![New Game](screenshots/New_Game.png) |
+
+| Filled Example | Completed Puzzle | Game Over |
+|---|---|---|
+| ![Filled Example](screenshots/New_Game_Filled.png) | ![Completed Puzzle](screenshots/Puzzle_Complete.png) | ![Game Over](screenshots/Game_Over.png) |
 
 ---
 
