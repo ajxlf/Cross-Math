@@ -98,6 +98,24 @@ Built as a coursework project for **5COSC023W Mobile Application Development** a
 
 ---
 
+## Build and automated tests
+
+The project includes local unit tests for equation validation, including each arithmetic operator, incomplete and invalid inputs, vertical-coordinate mapping, and division by zero.
+
+Run the unit tests and build a debug APK from the project root:
+
+**Windows**
+```powershell
+gradlew.bat testDebugUnitTest assembleDebug
+```
+
+**macOS / Linux**
+```bash
+./gradlew testDebugUnitTest assembleDebug
+```
+
+The Android SDK Platform 36.1 and a compatible Android Build-Tools 36.x version are required by the current Gradle configuration. GitHub Actions runs the same test and build tasks for pull requests and pushes to `main`; a successful build uploads the debug APK as a workflow artifact.
+
 ## 📄 Licence
 
 This project is for portfolio and educational purposes. Not licensed for redistribution.
