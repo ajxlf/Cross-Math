@@ -111,7 +111,7 @@ gradlew.bat testDebugUnitTest assembleDebug
 
 **macOS / Linux**
 ```bash
-./gradlew testDebugUnitTest assembleDebug
+bash ./gradlew testDebugUnitTest assembleDebug
 ```
 
 The Android SDK Platform 36.1 and a compatible Android Build-Tools 36.x version are required by the current Gradle configuration. GitHub Actions runs the same test and build tasks for pull requests and pushes to `main`; a successful build uploads the debug APK as a workflow artifact.
